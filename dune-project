@@ -1,5 +1,6 @@
 (lang dune 3.8)
 (name ppxlib)
+(version 0.38.0+reloaded)
 (using cinaps 1.0)
 (implicit_transitive_deps false)
 (cram enable)
